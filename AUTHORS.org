@@ -26,6 +26,9 @@ are amazing!
  - hair/princess.png is derrived from her work
  - outfits/princess_dress.png is derrived from her work
  - misc/clock_frames.png is derrived from her work
+ - interiors/cabinets.png is her work
+ - interiors/cementstair.png is her work
+ - interiors/country.png is her work
  - misc/boiling_cauldron.png is her work
  - misc/campfire.png is her work
  - misc/barrel.png is her work
@@ -61,6 +64,14 @@ Sources:
  - hair/mohawk.png is derrived from his work
 Sources: 
  - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#manuel-riecke-aka-mrbeast
+
+* Daniel Armstrong (HughSpectrum)
+ - interiors/castlewalls.png is his work
+ - interiors/castlefloors.png is his work
+ - interiors/castlefloors_outside.png is his work
+ - interiors/castle_outside.png is his work
+Sources:
+ - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#daniel-armstrong-aka-hughspectrum
 
 * Johannes Sjölund
  - templates/body_template.xcf [and .png] is derrived from his work
