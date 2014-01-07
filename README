@@ -35,3 +35,12 @@ in the near future to be better to use with keyframe files.  Outfits
 will not be "baked" on to body sprites in the future, but I've yet to
 decide how best to do this.
 .
+
+
+This file also contains a python script for converting sprites from
+the Universal Sprite Sheet's format to this repository's preferred
+layout.  The script is found in the "scripts" folder, and other useful
+programs may appear there in the future.  In the present moment, it
+only has a command line interface, and learning how to use it is left
+as an exercise to the reader.
+.

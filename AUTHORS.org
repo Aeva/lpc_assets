@@ -28,10 +28,14 @@ are amazing!
  - misc/clock_frames.png is derrived from her work
  - misc/boiling_cauldron.png is her work
  - misc/campfire.png is her work
+ - terrain/beach_sand.png is derrived from her work (dark ground tiles)
+ - terrain/snow_and_ice.png is derrived from her work (non-sand tiles)
 Sources: 
  - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#lanea-zimmerman-aka-sharm
  - http://opengameart.org/content/lpc-clock-animation
  - http://opengameart.org/content/lpc-dungeon-elements
+ - http://opengameart.org/content/lpc-sandrock-alt-colors
+ - http://opengameart.org/content/lpc-terrain-repack-2
 
 * Stephen Challener (Redshrike)
  - templates/body_template.xcf [and .png] is derrived from his work
@@ -69,8 +73,11 @@ Sources:
  - misc/clock_frames.png (animated by him)
  - misc/boiling_cauldron.png was commissioned by him.
  - misc/campfire.png was commissioned by him.
+ - terrain/beach_sand.png is his work (recolor)
+Sources
  - http://opengameart.org/content/lpc-clock-animation
  - http://opengameart.org/content/lpc-dungeon-elements
+ - http://opengameart.org/content/lpc-sandrock-alt-colors
 
 * Clint Bellanger
  - misc/copper_coin.png is his work
@@ -91,3 +98,18 @@ Sources:
  - outfits/green_dress.png is derrived from his work
 Sources:
  - https://github.com/jrconway3/Universal-LPC-spritesheet/blob/master/AUTHORS.txt
+
+* (Nushio)
+ - terrain/snow_and_ice.png is his work
+Sources:
+ - http://opengameart.org/content/lpc-terrain-repack-2
+ - http://opengameart.org/content/lpc-colorful-sand-deep-water
+
+* Daniel Eddeland (Daneeklu)
+ - terrain/beach_sand.png is derrived from his work (sand tiles)
+ - terrain/snow_and_ice.png is derrived from his work (sand tiles)
+Sources:
+ - http://opengameart.org/content/farming-tilesets-magic-animations-and-ui-elements
+ - http://opengameart.org/content/lpc-sandrock-alt-colors
+ - http://opengameart.org/content/lpc-terrain-repack-2
+
