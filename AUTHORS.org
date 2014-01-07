@@ -42,9 +42,7 @@ are amazing!
  - misc/rock.png is her work
  - misc/signs.png is her work
  - misc/bridges.png is her work
- - terrain/beach_sand.png is derrived from her work (dark ground tiles)
- - terrain/snow_and_ice.png is derrived from her work (non-sand tiles)
- - terrain/basic_terrain.png is her work
+ - terrain/terrain.png contains her work
  - terrain/mountains.png is her work
 Sources: 
  - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#lanea-zimmerman-aka-sharm
@@ -103,7 +101,7 @@ Sources:
  - misc/boiling_cauldron.png was commissioned by him.
  - misc/campfire.png was commissioned by him.
  - interiors/dungeon_furniture.png was commissioned by him.
- - terrain/beach_sand.png is his work (recolor)
+ - terrain/terrain.png contains his work (recoloring)
 Sources:
  - http://opengameart.org/content/lpc-clock-animation
  - http://opengameart.org/content/lpc-dungeon-elements
@@ -136,9 +134,7 @@ Sources:
  - http://opengameart.org/content/lpc-colorful-sand-deep-water
 
 * Daniel Eddeland (Daneeklu)
- - terrain/farm_land.png is his work
- - terrain/beach_sand.png is derrived from his work (sand tiles)
- - terrain/snow_and_ice.png is derrived from his work (sand tiles)
+ - terrain/terrain.png contains his work
 Sources:
  - http://opengameart.org/content/farming-tilesets-magic-animations-and-ui-elements
  - http://opengameart.org/content/lpc-sandrock-alt-colors
