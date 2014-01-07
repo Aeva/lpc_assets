@@ -1,0 +1,37 @@
+The Liberated Pixel Cup - Asset Library
+.
+
+
+This module is a curated collection of LPC assets and keyframe files
+for easy animation and custimization.  It is organized so that it can
+be easily included into other projects but maintained separately.
+
+It was designed with [https://github.com/Aeva/m.grl](m.grl) in mind,
+but may just as well be used elsewhere.
+
+Like the LPC base set itself, the art assets in this repository are
+available to you both under the General Public License (version 3) and
+the Creative Commons Attribution Share-Alike License (version 3.0).
+
+See Authors.txt for attribution information.
+.
+
+
+The keyframe files define sprite offsets for animation.  The advantage
+of these files is that when sprites are properly formatted, they can
+be swapped out for other sprites with similar formatting.  In
+something like the original LPC characters, if you were to add a new
+animation, all of the sprite sheets would need to be re-worked to show
+the new animation.  Keyframe files can be used to avoid this problem.
+If you're confused, take a look at this demo:
+http://pirateradiotheater.org/files/m.grl/demos/03_animations/
+.
+
+
+The sprite offsets for head and hair graphics are pretty much final,
+and I'll happily accept new contributions in those categories.  The
+current layout of bodies/outfits is NOT final, and will be re-worked
+in the near future to be better to use with keyframe files.  Outfits
+will not be "baked" on to body sprites in the future, but I've yet to
+decide how best to do this.
+.
