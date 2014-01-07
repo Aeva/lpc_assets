@@ -40,9 +40,9 @@ SPRITE  852            BODY  320  384   64   64 body magic 6 down
 SPRITE  853            BODY  320  448   64   64 body magic 6 right
 
 CONTINUOUS
-DEFAULTHEAD head2.png
-DEFAULTHAIR hair_messy.png
-DEFAULTBODY body1.png
+DEFAULTHEAD heads/default.png
+DEFAULTHAIR hair/messy.png
+DEFAULTBODY outfits/red_dress.png
 
 ANI
    800  -8 -16,   10  8 -8,   50  0 -16

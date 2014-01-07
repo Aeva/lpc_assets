@@ -13,9 +13,9 @@ SPRITE 1004            BODY  832  512   64   64 body fall 5
 
 CONTINUOUS
 SINGLEDIRECTION
-DEFAULTHEAD head2.png
-DEFAULTHAIR hair_messy.png
-DEFAULTBODY body1.png
+DEFAULTHEAD heads/default.png
+DEFAULTHAIR hair/messy.png
+DEFAULTBODY outfits/red_dress.png
 
 ANI
  502  -8 -16,   12  8 -8,   52  0 -16

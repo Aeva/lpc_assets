@@ -11,7 +11,7 @@ LOOP
 SINGLEDIRECTION
 CONTINUOUS
 
-DEFAULTCOIN coins/gold_coin.png
+DEFAULTCOIN misc/gold_coin.png
 
 ANI
    1 8 16

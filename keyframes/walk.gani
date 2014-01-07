@@ -37,9 +37,9 @@ SPRITE  663            BODY  448  192   64   64 body walk 7 right
 
 LOOP
 CONTINUOUS
-DEFAULTHEAD head2.png
-DEFAULTHAIR hair_messy.png
-DEFAULTBODY body1.png
+DEFAULTHEAD heads/default.png
+DEFAULTHAIR hair/messy.png
+DEFAULTBODY outfits/red_dress.png
 
 ANI
  600  -8 -16,   10  8 -8,   50  0 -16

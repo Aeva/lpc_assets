@@ -23,9 +23,9 @@ SPRITE  503            BODY    0  192   64   64 body idle right
 
 LOOP
 CONTINUOUS
-DEFAULTHEAD head2.png
-DEFAULTHAIR hair_messy.png
-DEFAULTBODY body1.png
+DEFAULTHEAD heads/default.png
+DEFAULTHAIR hair/messy.png
+DEFAULTBODY outfits/red_dress.png
 
 ANI
    500  -8 -16,   10  8 -8,   50  0 -16
