@@ -1,9 +1,15 @@
 This file attempts to exhaustively catalogue who made what in this
-repository.  My appologies if anybody is left our, is named wrong, or
-is described with the wrong pronouns.  If you spot any discrepencies
-below, please file a bug in the issue tracker, and I'll fix the error
-as soon as possible.  Thanks to everyone who has contributed LPC-style
-work!  You are amazing!  -Aeva
+repository.
+
+My appologies if anybody is left out, was named wrong, or is described
+with the wrong pronouns.  If you spot any discrepencies below, please
+file a bug in the issue tracker, and I'll fix the error as soon as
+possible.
+
+Thank you to everyone who has contributed LPC-style work!  You
+are amazing!
+
+-Aeva
 
 
 * Aeva Palecek
