@@ -30,6 +30,7 @@ are amazing!
  - misc/campfire.png is her work
  - terrain/beach_sand.png is derrived from her work (dark ground tiles)
  - terrain/snow_and_ice.png is derrived from her work (non-sand tiles)
+ - terrain/basic_terrain.png is her work
 Sources: 
  - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#lanea-zimmerman-aka-sharm
  - http://opengameart.org/content/lpc-clock-animation
@@ -106,6 +107,7 @@ Sources:
  - http://opengameart.org/content/lpc-colorful-sand-deep-water
 
 * Daniel Eddeland (Daneeklu)
+ - terrain/farm_land.png is his work
  - terrain/beach_sand.png is derrived from his work (sand tiles)
  - terrain/snow_and_ice.png is derrived from his work (sand tiles)
 Sources:
