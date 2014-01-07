@@ -63,6 +63,11 @@ Sources:
  - heads/skull.png is derrived from his work
  - https://github.com/jrconway3/Universal-LPC-spritesheet/blob/master/AUTHORS.txt
 
+* Johan Charlot
+ - terrain/flyover.png
+Sources:
+ - http://opengameart.org/content/shootem-up-graphic-kit
+
 * Matthew Krohn
  - templates/body_template.xcf [and .png] is derrived from his work
  - outfits/hunk.png is derrived from his work (belt)
@@ -75,7 +80,7 @@ Sources:
  - misc/boiling_cauldron.png was commissioned by him.
  - misc/campfire.png was commissioned by him.
  - terrain/beach_sand.png is his work (recolor)
-Sources
+Sources:
  - http://opengameart.org/content/lpc-clock-animation
  - http://opengameart.org/content/lpc-dungeon-elements
  - http://opengameart.org/content/lpc-sandrock-alt-colors
