@@ -45,7 +45,7 @@ Sources:
 Sources: 
  - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#manuel-riecke-aka-mrbeast
 
-* Johannes Sjölund
+* Johannes Sjï¿½lund
  - templates/body_template.xcf [and .png] is derrived from his work
  - bodies/masculine.png is derrived from his work (thrust and shoot animations)
  - bodies/skeleton.png is derrived from his work
