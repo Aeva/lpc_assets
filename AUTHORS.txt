@@ -1,0 +1,87 @@
+This file attempts to exhaustively catalogue who made what in this
+repository.  My appologies if anybody is left our, is named wrong, or
+is described with the wrong pronouns.  If you spot any discrepencies
+below, please file a bug in the issue tracker, and I'll fix the error
+as soon as possible.  Thanks to everyone who has contributed LPC-style
+work!  You are amazing!  -Aeva
+
+
+* Aeva Palecek
+ - keyframes/idle.gani
+ - keyframes/walk.gani
+ - keyframes/fall.gani
+ - keyframes/magic.gani
+ - keyframes/coin.gani
+ - keyframes/clock.gani
+ - keyframes/campfire.gani
+ - (re-organizing various file layouts)
+
+* Lanea Zimmerman (Sharm)
+ - hair/princess.png is derrived from her work
+ - outfits/princess_dress.png is derrived from her work
+ - misc/clock_frames.png is derrived from her work
+ - misc/boiling_cauldron.png is her work
+ - misc/campfire.png is her work
+Sources: 
+ - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#lanea-zimmerman-aka-sharm
+ - http://opengameart.org/content/lpc-clock-animation
+ - http://opengameart.org/content/lpc-dungeon-elements
+
+* Stephen Challener (Redshrike)
+ - templates/body_template.xcf [and .png] is derrived from his work
+ - templates/head_template.xcf [and .png] is derrived from his work
+ - templates/hair_template.xcf [and .png] is derrived from his work
+ - bodies/default.png is derrived from his work
+ - bodies/masculine.png is derrived from his work
+ - heads/default.png is derrived from his work
+ - heads/masculine.png is derrived from his work
+Sources: 
+ - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#stephen-challener-aka-redshrike
+ - https://github.com/jrconway3/Universal-LPC-spritesheet/blob/master/AUTHORS.txt
+
+* Manuel Riecke (MrBeast)
+ - hair/mess.png is derrived from his work
+ - hair/mohawk.png is derrived from his work
+Sources: 
+ - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#manuel-riecke-aka-mrbeast
+
+* Johannes Sjölund
+ - templates/body_template.xcf [and .png] is derrived from his work
+ - bodies/masculine.png is derrived from his work (thrust and shoot animations)
+ - bodies/skeleton.png is derrived from his work
+ - heads/skull.png is derrived from his work
+ - https://github.com/jrconway3/Universal-LPC-spritesheet/blob/master/AUTHORS.txt
+
+* Matthew Krohn
+ - templates/body_template.xcf [and .png] is derrived from his work
+ - outfits/hunk.png is derrived from his work (belt)
+ - bodies/default.png is derrived from his work (thrust and shoot animations)
+Sources:
+ - https://github.com/jrconway3/Universal-LPC-spritesheet/blob/master/AUTHORS.txt
+
+* William Thompsonj
+ - misc/clock_frames.png (animated by him)
+ - misc/boiling_cauldron.png was commissioned by him.
+ - misc/campfire.png was commissioned by him.
+ - http://opengameart.org/content/lpc-clock-animation
+ - http://opengameart.org/content/lpc-dungeon-elements
+
+* Clint Bellanger
+ - misc/copper_coin.png is his work
+ - misc/silver_coin.png is his work
+ - misc/gold_coin.png is his work
+ - misc/emerald_coin.png is derrived from his work (recolor)
+ - misc/ruby_coin.png is derrived from his work (recolor)
+Sources:
+ - http://opengameart.org/content/animated-coins-0
+
+* (makrohn)
+ - outfits/princess_dress.png is derrived from his work (combat poses)
+Sources:
+ - http://opengameart.org/content/lpc-dress-in-combat-poses
+
+* Thane Brimhall
+ - outfits/red_dress.png is derrived from his work
+ - outfits/green_dress.png is derrived from his work
+Sources:
+ - https://github.com/jrconway3/Universal-LPC-spritesheet/blob/master/AUTHORS.txt
