@@ -25,10 +25,15 @@ are amazing!
 * Lanea Zimmerman (Sharm)
  - hair/princess.png is derrived from her work
  - outfits/princess_dress.png is derrived from her work
- - misc/clock_frames.png is derrived from her work
  - interiors/cabinets.png is her work
  - interiors/cementstair.png is her work
  - interiors/country.png is her work
+ - interiors/dungeon.png is her work
+ - interiors/dungeon_furniture.png is her work
+ - interiors/inside.png is her work
+ - interiors/kitchen.png is her work
+ - interiors/victoria.png is her work
+ - misc/clock_frames.png is derrived from her work
  - misc/boiling_cauldron.png is her work
  - misc/campfire.png is her work
  - misc/barrel.png is her work
@@ -36,6 +41,7 @@ are amazing!
  - misc/cup.png is her work
  - misc/rock.png is her work
  - misc/signs.png is her work
+ - misc/bridges.png is her work
  - terrain/beach_sand.png is derrived from her work (dark ground tiles)
  - terrain/snow_and_ice.png is derrived from her work (non-sand tiles)
  - terrain/basic_terrain.png is her work
@@ -96,6 +102,7 @@ Sources:
  - misc/clock_frames.png (animated by him)
  - misc/boiling_cauldron.png was commissioned by him.
  - misc/campfire.png was commissioned by him.
+ - interiors/dungeon_furniture.png was commissioned by him.
  - terrain/beach_sand.png is his work (recolor)
 Sources:
  - http://opengameart.org/content/lpc-clock-animation
