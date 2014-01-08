@@ -140,3 +140,19 @@ Sources:
  - http://opengameart.org/content/lpc-sandrock-alt-colors
  - http://opengameart.org/content/lpc-terrain-repack-2
 
+* (NenadSimic)
+ - coin.wav  (CC-BY)
+ - chime.wav (CC-BY)
+Sources:
+ - http://opengameart.org/content/picked-coin-echo
+ - http://opengameart.org/content/picked-coin-echo-2
+
+* (koertes)
+ - birdsong_loop.ogg
+Sources:
+ - http://opengameart.org/content/birdsong-background-loop
+
+* (LokiF)
+ - swamp_loop.ogg
+Sources:
+ - http://opengameart.org/content/swamp-environment-audio
