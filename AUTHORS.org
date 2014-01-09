@@ -21,6 +21,7 @@ are amazing!
  - keyframes/clock.gani
  - keyframes/campfire.gani
  - (re-organizing various file layouts)
+ - tile_masks/mountains.png is her work
 
 * Lanea Zimmerman (Sharm)
  - hair/princess.png is derrived from her work
@@ -43,7 +44,8 @@ are amazing!
  - misc/signs.png is her work
  - misc/bridges.png is her work
  - terrain/terrain.png contains her work
- - terrain/mountains.png is her work
+ - map_tiles/mountains.png is her work
+ - tile_masks/mountains.png is derrived from her work
 Sources: 
  - http://lpc.opengameart.org/static/lpc-style-guide/authors.html#lanea-zimmerman-aka-sharm
  - http://opengameart.org/content/lpc-clock-animation
