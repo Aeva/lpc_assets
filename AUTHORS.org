@@ -143,6 +143,7 @@ Sources:
  - http://opengameart.org/content/lpc-terrain-repack-2
 
 * (NenadSimic)
+ - coin.ogg  (CC-BY)
  - coin.wav  (CC-BY)
  - chime.wav (CC-BY)
 Sources:
