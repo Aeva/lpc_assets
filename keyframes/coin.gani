@@ -1,33 +1,39 @@
-SPRITE 1        COIN    0       0       32      32      Coin Frame 1
-SPRITE 2        COIN   32       0       32      32      Coin Frame 2
-SPRITE 3        COIN   64       0       32      32      Coin Frame 3
-SPRITE 4        COIN   96       0       32      32      Coin Frame 4
-SPRITE 5        COIN  128       0       32      32      Coin Frame 5
-SPRITE 6        COIN  160       0       32      32      Coin Frame 6
-SPRITE 7        COIN  192       0       32      32      Coin Frame 7
-SPRITE 8        COIN  224       0       32      32      Coin Frame 8
+SPRITE   0           COIN    0    0   32   32 Coin Frame 1
+SPRITE   1           COIN   32    0   32   32 Coin Frame 2
+SPRITE   2           COIN   64    0   32   32 Coin Frame 3
+SPRITE   3           COIN   96    0   32   32 Coin Frame 4
+SPRITE   4           COIN  128    0   32   32 Coin Frame 5
+SPRITE   5           COIN  160    0   32   32 Coin Frame 6
+SPRITE   6           COIN  192    0   32   32 Coin Frame 7
+SPRITE   7           COIN  224    0   32   32 Coin Frame 8
+SPRITE   10        SHADOW    0    0   32    7 Coin Shadow 1
+SPRITE   11        SHADOW   32    0   32    7 Coin Shadow 2
+SPRITE   12        SHADOW   64    0   32    7 Coin Shadow 3
+SPRITE   13        SHADOW   96    0   32    7 Coin Shadow 4
+
 
 LOOP
-SINGLEDIRECTION
 CONTINUOUS
-
+SINGLEDIRECTION
 DEFAULTCOIN misc/gold_coin.png
+DEFAULTSHADOW misc/item_shadow.png
+
 
 ANI
-   1 8 16
+   10   8  41,   0   8  12
 
-   2 8 16
+   11   8  41,   1   8  11
 
-   3 8 16
+   12   8  41,   2   8  10
 
-   4 8 16
+   13   8  41,   3   8   9
 
-   5 8 16
+   13   8  41,   4   8   9
 
-   6 8 16
+   12   8  41,   5   8  10
 
-   7 8 16
+   11   8  41,   6   8  11
 
-   8 8 16
+   10   8  41,   7   8  12
 
 ANIEND

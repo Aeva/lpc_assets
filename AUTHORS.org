@@ -110,9 +110,10 @@ Sources:
  - http://opengameart.org/content/lpc-sandrock-alt-colors
 
 * Clint Bellanger
- - misc/copper_coin.png is his work
- - misc/silver_coin.png is his work
- - misc/gold_coin.png is his work
+ - misc/item_shadow.png is derrived from his work
+ - misc/copper_coin.png is derrived from his work
+ - misc/silver_coin.png is derrived form his work
+ - misc/gold_coin.png is derrived from his work
  - misc/emerald_coin.png is derrived from his work (recolor)
  - misc/ruby_coin.png is derrived from his work (recolor)
 Sources:
